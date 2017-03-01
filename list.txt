@@ -1,8 +1,9 @@
-# 知乎右侧栏广告 2017年3月1日
+! 知乎右侧栏广告 2017年3月1日
 |https://pic*.zhimg.com/*|ad*.*$image
-# 汉典
+zhihu.com##.shameimaru-section
+! 汉典
 |http://www.zdic.net/images/nobk*.png
-# 百度分享
+! 百度分享
 ||bdimg.share.baidu.com/static/api/js/share.js?*
-# v2ex (may include some gifs)
+! v2ex (may include some gifs)
 ||cdn.v2ex.co/assets/sidebar/*
