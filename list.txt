@@ -1,3 +1,7 @@
+! Title: lilydjwg's rules, mainly for China websites
+! Homepage: https://github.com/lilydjwg/abp-rules
+! Expires: 5 days
+
 ! 知乎右侧栏广告 2017年3月1日
 |https://pic*.zhimg.com/*|ad*.*$image
 zhihu.com##.shameimaru-section
