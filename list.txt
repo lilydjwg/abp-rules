@@ -8,7 +8,12 @@
 zhihu.com##.shameimaru-section
 ! 汉典
 |http://www.zdic.net/images/nobk*.png
-! 百度分享
-||bdimg.share.baidu.com/static/api/js/share.js?*
 ! v2ex (may include some gifs)
 ||cdn.v2ex.co/assets/sidebar/*
+! 有道
+|http://impservice*.youdao.com/imp/*
+
+! 百度分享
+||bdimg.share.baidu.com/static/api/js/share.js?*
+！ jiathis
+|http://*.jiathis.com/*$third-party
