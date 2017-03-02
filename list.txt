@@ -15,5 +15,5 @@ zhihu.com##.shameimaru-section
 
 ! 百度分享
 ||bdimg.share.baidu.com/static/api/js/share.js?*
-！ jiathis
+! jiathis
 |http://*.jiathis.com/*$third-party
