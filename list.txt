@@ -6,6 +6,9 @@
 ! 知乎右侧栏广告 2017年3月1日
 |https://pic*.zhimg.com/*|ad*.*$image
 zhihu.com##.shameimaru-section
+! 知乎移动版下方滚动的广告 2017年3月3日
+zhihu.com##.AppMagicBanner
+
 ! 汉典
 |http://www.zdic.net/images/nobk*.png
 ! v2ex (may include some gifs)
