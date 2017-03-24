@@ -20,3 +20,6 @@ zhihu.com##.AppMagicBanner
 ||bdimg.share.baidu.com/static/api/js/share.js?*
 ! jiathis
 |http://*.jiathis.com/*$third-party
+
+! pc6 下载站
+||static.jfcdns.com^$script
