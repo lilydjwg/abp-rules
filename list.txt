@@ -17,6 +17,8 @@ zhihu.com##.AppMagicBanner
 |http://www.zdic.net/images/nobk*.png
 ! 有道
 |http://impservice*.youdao.com/imp/*
+! 沪江大大的底栏
+hjenglish.com##.bottomActive1212
 
 ! 百度分享
 ||bdimg.share.baidu.com/static/api/js/share.js?*
