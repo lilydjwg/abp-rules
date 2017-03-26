@@ -13,6 +13,7 @@ zhihu.com##.AppMagicBanner
 |http://www.zdic.net/images/nobk*.png
 ! v2ex (may include some gifs)
 ||cdn.v2ex.co/assets/sidebar/*
+||v2ex.assets.uxengine.net/assets/sidebar/*
 ! 有道
 |http://impservice*.youdao.com/imp/*
 
