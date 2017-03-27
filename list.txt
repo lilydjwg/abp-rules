@@ -27,3 +27,7 @@ hjenglish.com##.bottomActive1212
 
 ! pc6 下载站
 ||static.jfcdns.com^$script
+
+! 499.cn
+|http://*/pc/tt/gg_*$image,object,script,subdocument
+||c.k429fma.com^
