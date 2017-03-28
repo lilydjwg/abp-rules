@@ -13,6 +13,9 @@ zhihu.com##.AppMagicBanner
 ||cdn.v2ex.co/assets/sidebar/*
 ||v2ex.assets.uxengine.net/assets/sidebar/*
 
+! solidot, may be gif
+|http://img.zhiding.cn/moudlepic/*
+
 ! 汉典
 |http://www.zdic.net/images/nobk*.png
 ! 有道
