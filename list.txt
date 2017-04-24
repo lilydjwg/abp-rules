@@ -23,6 +23,10 @@ www.douban.com###dale_group_topic_new_top_right
 ! Medium, unregistered user's footer
 medium.com##.js-stickyFooter
 
+! laod.cn, 背景特效，太占 CPU 了
+canvas-nest.min.js
+canvas-nest.js
+
 ! 汉典
 |http://www.zdic.net/images/nobk*.png
 ! 有道
