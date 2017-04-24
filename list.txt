@@ -20,6 +20,13 @@ zhihu.com##.AppMagicBanner
 www.douban.com###dale_group_topic_new_bottom_right
 www.douban.com###dale_group_topic_new_top_right
 
+! 果壳
+www.guokr.com###sideSlide
+www.guokr.com##.guokr-layer-beforelogin
+
+! 网易博客
+blog.163.com###blog-163-com-layer
+
 ! Medium, unregistered user's footer
 medium.com##.js-stickyFooter
 
@@ -38,6 +45,9 @@ canvas-nest.js
 |http://impservice*.youdao.com/imp/*
 ! 沪江大大的底栏
 hjenglish.com##.bottomActive1212
+
+! 简单心理移动版占空间的底栏
+www.jiandanxinli.com###bottom_msg
 
 ! 百度分享
 ||bdimg.share.baidu.com/static/api/js/share.js?*
