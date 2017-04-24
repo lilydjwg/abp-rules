@@ -27,6 +27,11 @@ medium.com##.js-stickyFooter
 canvas-nest.min.js
 canvas-nest.js
 
+! 张鑫旭-鑫空间-鑫生活 (www.zhangxinxu.com)
+###ad_col2
+###adYidengFloat
+###adHaiTang
+
 ! 汉典
 |http://www.zdic.net/images/nobk*.png
 ! 有道
