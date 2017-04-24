@@ -28,7 +28,7 @@ canvas-nest.min.js
 canvas-nest.js
 
 ! 张鑫旭-鑫空间-鑫生活 (www.zhangxinxu.com)
-###ad_col2
+##.ad_col2
 ###adYidengFloat
 ###adHaiTang
 
