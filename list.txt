@@ -30,6 +30,11 @@ blog.163.com###blog-163-com-layer
 ! Medium, unregistered user's footer
 medium.com##.js-stickyFooter
 
+! 大疆推广联盟
+||u.dji.com/ads/*
+! Cloudflare rocketscript
+/cdn-cgi/pe/bag2?r[]=*u.dji.com%2Fads%2F*
+
 ! laod.cn, 背景特效，太占 CPU 了
 canvas-nest.min.js
 canvas-nest.js
