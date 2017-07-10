@@ -15,6 +15,7 @@ zhihu.com##.AppMagicBanner
 
 ! solidot, may be gif
 |http://img.zhiding.cn/moudlepic/*
+|http://am.zhiding.cn/*
 
 ! 豆瓣，JavaScript 切换
 www.douban.com###dale_group_topic_new_bottom_right
