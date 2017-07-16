@@ -31,6 +31,9 @@ blog.163.com###blog-163-com-layer
 ! Medium, unregistered user's footer
 medium.com##.js-stickyFooter
 
+! 新浪爱问很恶心的侧栏广告
+iask.sina.com.cn/hwj/dfh?*
+
 ! 大疆推广联盟
 ||u.dji.com/ads/*
 ! Cloudflare rocketscript
