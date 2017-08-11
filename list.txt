@@ -9,8 +9,8 @@ zhihu.com##.shameimaru-section
 ! 知乎移动版下方滚动的广告 2017年3月3日
 zhihu.com##.AppMagicBanner
 
-! v2ex (may include some gifs)
-||cdn.v2ex.co/assets/sidebar/*
+! v2ex (不动不屏蔽，动就屏蔽，动得越疯狂屏蔽得越快)
+||i.v2ex.co/*
 ||v2ex.assets.uxengine.net/assets/sidebar/*
 
 ! solidot, may be gif
