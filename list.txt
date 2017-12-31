@@ -82,3 +82,7 @@ www.jiandanxinli.com###bottom_msg
 ! m.shumilou.net
 |http://meiyu.laogesuan.com/*
 |http://sube.puwangkj.com/*
+
+! 今生缘音乐
+|m.666ccc.com/ssp/m_top.js
+|mkan.666ccc.com/js/fuli.js
