@@ -28,6 +28,9 @@ www.douban.com###dale_group_topic_new_top_right
 www.guokr.com###sideSlide
 www.guokr.com##.guokr-layer-beforelogin
 
+! Golang 中国
+||is.golangtc.com/bar/*
+
 ! 码云下方巨型 banner
 gitee.com##.gitee-stars-banner
 
