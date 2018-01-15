@@ -11,6 +11,8 @@ zhihu.com##.AppMagicBanner
 ! 「在 app 中打开」按钮，放大后非常占地方
 zhihu.com##.OpenInApp
 zhuanlan.zhihu.com##.OpenInAppButton
+! 知乎专栏改用 www 子域了？
+www.zhihu.com##.OpenInAppButton
 
 ! v2ex (不动不屏蔽，动就屏蔽，动得越疯狂屏蔽得越快)
 ||i.v2ex.co/*
