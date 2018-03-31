@@ -68,6 +68,7 @@ canvas-nest.js
 |http://impservice*.youdao.com/imp/*
 ! 沪江大大的底栏
 hjenglish.com##.bottomActive1212
+resu8.hjfile.cn/*$image
 
 ! 简单心理移动版占空间的底栏
 www.jiandanxinli.com###bottom_msg
