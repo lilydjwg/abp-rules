@@ -44,6 +44,11 @@ blog.163.com###blog-163-com-layer
 
 ! Medium, unregistered user's footer
 medium.com##.js-stickyFooter
+! Medium, "open in app" floating at the bottom
+medium.com##.openInAppButton
+
+! Reddit, "Use app" at the top
+www.reddit.com##.TopButton
 
 ! 新浪爱问很恶心的侧栏广告
 iask.sina.com.cn/hwj/dfh?*
