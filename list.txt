@@ -90,7 +90,7 @@ www.jiandanxinli.com###bottom_msg
 ! 「APP内打开」
 zhidao.baidu.com##.bottom-fixed-button
 ! 「返回百度」
-zhidao.baidu.com###jjens5bbc58
+zhidao.baidu.com##footer + a[id][class]
 
 ! pc6 下载站
 ||static.jfcdns.com^$script
