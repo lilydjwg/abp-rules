@@ -86,6 +86,12 @@ www.jiandanxinli.com###bottom_msg
 ! jiathis
 |http://*.jiathis.com/*$third-party
 
+! 百度知道移动版
+! 「APP内打开」
+zhidao.baidu.com##.bottom-fixed-button
+! 「返回百度」
+zhidao.baidu.com###jjens5bbc58
+
 ! pc6 下载站
 ||static.jfcdns.com^$script
 
