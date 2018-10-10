@@ -49,6 +49,8 @@ medium.com##.openInAppButton
 
 ! Reddit, "Use app" at the top
 www.reddit.com##.TopButton
+! Reddit, "OPEN REDDIT APP" at the bottom
+www.reddit.com##.XPromoPill
 
 ! CSDN blog bottom banner
 blog.csdn.net##.pulllog-box
