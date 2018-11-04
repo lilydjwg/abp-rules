@@ -49,7 +49,9 @@ medium.com##.openInAppButton
 
 ! Reddit, "Use app" at the top
 www.reddit.com##.TopButton
-! Reddit, mobile app ad at the bottom
+! Reddit, "OPEN REDDIT APP" at the bottom of post list pages
+www.reddit.com##.XPromoPill
+! Reddit, mobile app ad at the bottom of post pages
 www.reddit.com##.DualPartInterstitialFooter
 
 ! CSDN blog bottom banner
