@@ -33,6 +33,9 @@ www.douban.com###dale_group_topic_new_top_right
 www.guokr.com###sideSlide
 www.guokr.com##.guokr-layer-beforelogin
 
+! 腾讯新闻 页面下方不断滑动的消息
+view.inews.qq.com##div[data-action-id="3"]
+
 ! Golang 中国
 ||is.golangtc.com/bar/*
 
