@@ -36,6 +36,9 @@ www.guokr.com##.guokr-layer-beforelogin
 ! 腾讯新闻 页面下方不断滑动的消息
 view.inews.qq.com##div[data-action-id="3"]
 
+! 土豆视频 页面上方不断滑动的消息
+compaign.tudou.com###topbar-slider
+
 ! Golang 中国
 ||is.golangtc.com/bar/*
 
