@@ -74,9 +74,11 @@ iask.sina.com.cn/hwj/dfh?*
 ! Cloudflare rocketscript
 /cdn-cgi/pe/bag2?r[]=*u.dji.com%2Fads%2F*
 
-! laod.cn, 背景特效，太占 CPU 了
-canvas-nest.min.js
+! laod.cn etc, 背景特效，太占 CPU 了
 canvas-nest.js
+canvas-nest.min.js
+canvas-nest.js@*
+canvas-nest.min.js@*
 
 ! 张鑫旭-鑫空间-鑫生活 (www.zhangxinxu.com)
 ##.ad_col2
