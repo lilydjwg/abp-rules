@@ -3,6 +3,10 @@
 ! Homepage: https://github.com/lilydjwg/abp-rules
 ! Expires: 5 days
 
+! YouTube 全屏播放器的无意义遮挡
+www.youtube.com##.ytp-gradient-top
+www.youtube.com##.ytp-gradient-bottom
+
 ! 知乎右侧栏广告 2017年3月1日
 |https://pic*.zhimg.com/*|ad*.*$image
 zhihu.com##.shameimaru-section
