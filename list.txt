@@ -39,6 +39,11 @@ www.guokr.com##.guokr-layer-beforelogin
 ! 腾讯新闻 页面下方不断滑动的消息
 view.inews.qq.com##div[data-action-id="3"]
 
+! 腾讯视频 暂停时的广告内容
+v.qq.com##.txp_recommend_content
+! 腾讯视频 嵌入式播放器下方的广告
+v.qq.com##.txp_tipbar
+
 ! 土豆视频 页面上方不断滑动的消息
 compaign.tudou.com###topbar-slider
 
