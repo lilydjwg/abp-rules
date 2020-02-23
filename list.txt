@@ -47,6 +47,9 @@ v.qq.com##.txp_tipbar
 ! 土豆视频 页面上方不断滑动的消息
 compaign.tudou.com###topbar-slider
 
+! 凤凰网 页面下方不断滑动的消息
+ifeng.com##div[class^="bottom_box"]
+
 ! Golang 中国
 ||is.golangtc.com/bar/*
 
