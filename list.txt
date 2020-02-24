@@ -96,6 +96,9 @@ iask.sina.com.cn/hwj/dfh?*
 ###adYidengFloat
 ###adHaiTang
 
+! 17ce 中部的闪动广告图片
+www.17ce.com###lr_rows
+
 ! 汉典
 |http://www.zdic.net/images/nobk*.png
 ! 有道
