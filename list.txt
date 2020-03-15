@@ -36,6 +36,9 @@ www.douban.com###dale_group_topic_new_top_right
 www.guokr.com###sideSlide
 www.guokr.com##.guokr-layer-beforelogin
 
+! 一点资讯 移动版页面正文不断滑动的消息
+www.yidianzixun.com##body > .banner
+
 ! 腾讯新闻 页面下方不断滑动的消息
 view.inews.qq.com##div[data-action-id="3"]
 
