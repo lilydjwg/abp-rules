@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Title: lilydjwg's annoyance rules, mainly for China websites
+! Homepage: https://github.com/lilydjwg/abp-rules
+! Expires: 5 days
+
+www.zhihu.com##.SimilarQuestions-list
+www.zhihu.com##.SimilarQuestions-title
+www.zhihu.com##.QuestionInvitation
