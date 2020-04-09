@@ -6,3 +6,4 @@
 www.zhihu.com##.SimilarQuestions-list
 www.zhihu.com##.SimilarQuestions-title
 www.zhihu.com##.QuestionInvitation
+zhuanlan.zhihu.com##.Recommendations-Main
