@@ -77,6 +77,9 @@ www.reddit.com##.XPromoPill
 ! Reddit, mobile app ad at the bottom of post pages
 www.reddit.com##.DualPartInterstitialFooter
 
+! etymonline.com "Open in app" button
+www.etymonline.com###detail-app-guide
+
 ! CSDN blog bottom banner
 blog.csdn.net##.pulllog-box
 
