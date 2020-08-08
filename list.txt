@@ -20,10 +20,6 @@ www.zhihu.com##.OpenInAppButton
 ! voidlinux snow animation (eats CPU!)
 |https://voidlinux.org/assets/css/snow.css
 
-! v2ex (不动不屏蔽，动就屏蔽，动得越疯狂屏蔽得越快)
-||i.v2ex.co/*
-||v2ex.assets.uxengine.net/assets/sidebar/*
-
 ! solidot, may be gif
 |http://img.zhiding.cn/moudlepic/*
 |http://am.zhiding.cn/*
