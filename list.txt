@@ -73,6 +73,9 @@ www.reddit.com##.XPromoPill
 ! Reddit, mobile app ad at the bottom of post pages
 www.reddit.com##.DualPartInterstitialFooter
 
+! imgur "Open in App"
+m.imgur.com##.FloatingOIA-container
+
 ! etymonline.com "Open in app" button
 www.etymonline.com###detail-app-guide
 
