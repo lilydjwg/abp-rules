@@ -62,6 +62,8 @@ maimai.cn##.downloadFixed
 blog.163.com###blog-163-com-layer
 ! 网易文章 下方滑动消息
 3g.163.com##.widget-slider
+! 网易文章 右下方的悬浮按钮
+3g.163.com##.sub_box
 
 ! Medium, unregistered user's footer
 medium.com##.js-stickyFooter
