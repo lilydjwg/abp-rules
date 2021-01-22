@@ -24,6 +24,9 @@ www.zhihu.com##.OpenInAppButton
 |http://img.zhiding.cn/moudlepic/*
 |http://am.zhiding.cn/*
 
+! 丁香医生 COVID-19 页面下方的 app 按钮
+ncov.dxy.cn##[class^=wakeupAspirinApp]
+
 ! 豆瓣，JavaScript 切换
 www.douban.com###dale_group_topic_new_bottom_right
 www.douban.com###dale_group_topic_new_top_right
