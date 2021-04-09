@@ -86,8 +86,10 @@ m.imgur.com##.FloatingOIA-container
 ! etymonline.com "Open in app" button
 www.etymonline.com###detail-app-guide
 
+! CSDN blog "APP内打开"
+blog.csdn.net##.feed-Sign-span
 ! CSDN blog bottom banner
-blog.csdn.net##.pulllog-box
+blog.csdn.net###operate
 
 ! 新浪爱问很恶心的侧栏广告
 iask.sina.com.cn/hwj/dfh?*
