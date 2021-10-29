@@ -91,6 +91,9 @@ blog.csdn.net##.feed-Sign-span
 ! CSDN blog bottom banner
 blog.csdn.net###operate
 
+! 彩云天气 下方App推广
+caiyunapp.com##.footer_content
+
 ! 新浪爱问很恶心的侧栏广告
 iask.sina.com.cn/hwj/dfh?*
 
