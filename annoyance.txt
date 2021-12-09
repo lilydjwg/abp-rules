@@ -14,3 +14,7 @@ www.youtube.com##.ytp-pause-overlay
 ! Commenting system, privacy issues
 ! see https://ttys3.net/post/hugo/please-stop-using-valine-js-comment-system-until-it-fixed-the-privacy-leaking-problem/
 /*/Valine.min.js
+
+! GitHub release reactions
+! only positive reactions available, rendering it meaningless
+github.com##div[data-test-selector="release-card"] .comment-reactions
