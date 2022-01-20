@@ -24,6 +24,10 @@ www.zhihu.com##.OpenInAppButton
 |http://img.zhiding.cn/moudlepic/*
 |http://am.zhiding.cn/*
 
+! Marine Traffic, moving parts at right and bottom
+www.marinetraffic.com##.map_area_outer_cont + div
+www.marinetraffic.com###skyscraper_container_front
+
 ! 丁香医生 COVID-19 页面下方的 app 按钮
 ncov.dxy.cn##[class^=wakeupAspirinApp]
 
