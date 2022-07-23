@@ -131,6 +131,9 @@ resu8.hjfile.cn/*$image
 ! B站视频上的「在App中打开」
 m.bilibili.com##.mplayer-widescreen-callapp
 
+! 萌百「App内打开」浮动按钮
+mzh.moegirl.org.cn###open-in-app-wrapper
+
 ! 简单心理移动版占空间的底栏
 www.jiandanxinli.com###bottom_msg
 
