@@ -65,12 +65,14 @@ gitee.com##.gitee-stars-banner
 ! 脉脉下方 banner
 maimai.cn##.downloadFixed
 
+! 网易文章 下方「App内打开」
+3g.163.com##.js-open-app
+! 网易文章 右下方的悬浮按钮
+3g.163.com##aside.js-floatMenu
+! 网易文章 顶栏（巨大，包含滚动消息）
+3g.163.com##header
 ! 网易博客
 blog.163.com###blog-163-com-layer
-! 网易文章 下方滑动消息
-3g.163.com##.widget-slider
-! 网易文章 右下方的悬浮按钮
-3g.163.com##.sub_box
 
 ! Medium, unregistered user's footer
 medium.com##.js-stickyFooter
