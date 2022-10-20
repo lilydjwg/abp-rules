@@ -5,6 +5,8 @@
 
 ! YouTube 全屏播放器的无意义遮挡
 www.youtube.com##.ytp-gradient-top
+! YouTube 首页上方横幅广告
+www.youtube.com###masthead-ad > #rendering-content
 
 ! 知乎右侧栏广告 2017年3月1日
 |https://pic*.zhimg.com/*|ad*.*$image
