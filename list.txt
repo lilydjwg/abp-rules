@@ -94,6 +94,9 @@ m.imgur.com##.FloatingOIA-container
 ! etymonline.com "Open in app" button
 www.etymonline.com###detail-app-guide
 
+! 萌百，时隐时现的「在App内打开」
+zh.moegirl.org.cn###moe-open-in-app
+
 ! CSDN blog "APP内打开"
 blog.csdn.net##.feed-Sign-span
 ! CSDN blog bottom banner
