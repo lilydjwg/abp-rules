@@ -18,3 +18,6 @@ www.youtube.com##.ytp-pause-overlay
 ! GitHub release reactions
 ! only positive reactions available, rendering it meaningless
 github.com##div[data-test-selector="release-card"] .comment-reactions
+
+! jianshu clickbait sidebar
+www.jianshu.com##aside
