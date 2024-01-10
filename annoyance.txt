@@ -24,3 +24,6 @@ www.jianshu.com##aside
 
 ! Fandom marketing notice
 fandom.com##.marketing-notifications
+
+! bilibili forced fonts
+||*.hdslb.com/*HarmonyOS*$font,domain=bilibili.com
