@@ -12,7 +12,7 @@ zhuanlan.zhihu.com##.Recommendations-Main
 www.youtube.com##.ytp-pause-overlay
 
 ! Commenting system, privacy issues
-! see https://ttys3.net/post/hugo/please-stop-using-valine-js-comment-system-until-it-fixed-the-privacy-leaking-problem/
+! see https://ttys3.dev/blog/please-stop-using-valine-js-comment-system-until-it-fixed-the-privacy-leaking-problem
 /*/Valine.min.js
 
 ! GitHub release reactions
