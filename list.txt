@@ -141,6 +141,10 @@ resu8.hjfile.cn/*$image
 m.bilibili.com##.mplayer-widescreen-callapp
 ! B站文章的「在App中打开」
 bilibili.com##bili-open-app.float-btn
+! 直播间滚动横幅
+live.bilibili.com##div:has(> div > div.announcement-wrapper.clearfix.no-select)
+! 直播间下方横幅
+live.bilibili.com###sections-vm
 
 ! 萌百「App内打开」浮动按钮
 mzh.moegirl.org.cn###open-in-app-wrapper
